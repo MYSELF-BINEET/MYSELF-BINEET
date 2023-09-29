@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BINEET PRADHAN</h1>
 
-![logo](https://github.com/MYSELF-BINEET/myprofile/blob/main/github-header-image.png)
+![logo](https://github.com/MYSELF-BINEET/MYSELF-BINEET/blob/main/WhatsApp%20Image%202023-08-06%20at%2000.03.31_5e90127b.jpg)
 
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
