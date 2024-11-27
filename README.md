@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=0e75b6&style=flat" alt="myself-bineet" /> </p>
-- 🔭 I’m currently working on **my profile website**
+- 🔭 I’m currently working on **LMS website**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **js,react,sql,java**
 
