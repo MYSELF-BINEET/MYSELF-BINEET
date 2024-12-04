@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm BINEET PRADHAN</h1>
-![logo](https://github.com/MYSELF-BINEET/MYSELF-BINEET/blob/main/WhatsApp%20Image%202023-08-06%20at%2000.03.31_5e90127b.jpg)
+<!-- ![logo](https://github.com/MYSELF-BINEET/MYSELF-BINEET/blob/main/WhatsApp%20Image%202023-08-06%20at%2000.03.31_5e90127b.jpg) -->
 <h3 align="center">A passionate full-stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=0e75b6&style=flat" alt="myself-bineet" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=0e75b6&style=flat" alt="myself-bineet" /> </p>
 - 🔭 I’m currently working on **LMS website**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **js,react,sql,java**
