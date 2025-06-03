@@ -42,13 +42,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myself-bineet&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myself-bineet&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
 </p>
+
 
 
 ---
