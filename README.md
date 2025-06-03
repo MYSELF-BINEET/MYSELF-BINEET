@@ -1,92 +1,245 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#5e60ce">Bineet Pradhan</span></h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Java • React • Node.js | DevOps Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=5e60ce&style=flat-square" alt="profile views"/>
+# 🌟 Hey there! I'm **Bineet Pradhan** 🌟
+
+### 🚀 *Crafting Digital Experiences* | **Full-Stack Architect** | *DevOps Explorer*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Welcome%20to%20my%20Digital%20Realm&fontSize=24&fontAlignY=20&desc=Where%20Code%20Meets%20Creativity&descAlignY=40&descAlign=50"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Digital%20Wanderers&color=blueviolet&style=for-the-badge&logo=github" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/myself-bineet?label=Code%20Companions&style=for-the-badge&color=blue&logo=github" alt="followers"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;Always+learning+new+tech!+💡" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
 
 ---
 
-### 🔥 About Me:
-- 🔭 Working on: **Learning Management System (LMS)**  
-- 🌱 Currently learning: **DevOps**  
-- 💬 Ask me about: **Java, React, Node.js, SQL**  
-- 📬 Contact me at: **bineetpradhan03@gmail.com**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=600&height=60&lines=🎯+Full-Stack+Developer;🔥+Building+Tomorrow's+Web;💡+Always+Learning%2C+Always+Growing;🚀+From+Idea+to+Production" alt="Dynamic Typing"/>
+</div>
+
+<img align="right" alt="Developer at Work" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🎭 **The Developer Behind The Code**
+
+```typescript
+const bineet = {
+    currentFocus: "Learning Management System 🎓",
+    learning: ["DevOps", "Cloud Architecture", "System Design"],
+    expertise: ["Java ☕", "React ⚛️", "Node.js 🟢", "Database Design 🗄️"],
+    challenge: "Building scalable systems that make a difference",
+    funFact: "I debug with console.log and I'm proud of it! 😄"
+};
+```
+
+🔭 **Currently Building:** Next-gen Learning Management System with AI-powered analytics  
+🌱 **Exploring:** Cloud-native architectures and DevOps practices  
+💬 **Let's Talk About:** System design, scalable architectures, or your next big idea!  
+📧 **Reach Me:** [bineetpradhan03@gmail.com](mailto:bineetpradhan03@gmail.com)
 
 ---
 
-### 🌐 Connect with Me:
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bineet-pradhan-2382aa258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/myself_bineet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:bineetpradhan03@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🌐 **Let's Connect & Collaborate**
 
----
+<a href="https://www.linkedin.com/in/bineet-pradhan-2382aa258/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+</a>
+<a href="https://instagram.com/myself_bineet">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+</a>
+<a href="mailto:bineetpradhan03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+</a>
+<a href="https://github.com/myself-bineet">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+</a>
 
-### 🧠 Skills & Tools:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,mongodb,mysql,postgresql,html,css,git,docker,figma,ps,vscode,aws,jenkins" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=myself-bineet&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-</p>
-
-
+</div>
 
 ---
 
-### 📌 Featured Projects
+<div align="center">
 
-- 🧠 **EduPro LMS** – A modern learning platform with student analytics and course purchase features  
-- 🧾 **Custom Form Builder** – Drag-and-drop form builder with shareable links, CSV export, and submissions dashboard  
-- 💼 **Microservices Job Portal** – Java Spring Boot microservice architecture with Resilience4j, API Gateway, Docker & K8s
+## 🛠️ **My Arsenal of Technologies**
+
+### **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" />
+
+### **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql,mysql&theme=dark" />
+
+### **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github,vscode&theme=dark" />
+
+### **Design & Tools**
+<img src="https://skillicons.dev/icons?i=ps,figma,postman,vercel,netlify,heroku&theme=dark" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myself-bineet&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
+## 📊 **GitHub Analytics Dashboard**
+
+<img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Bineet's%20Code%20Journey" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=radical&hide_border=true&stroke=5E60CE&ring=FF6B6B&fire=FFD93D&currStreakLabel=5E60CE" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Code%20Distribution" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myself-bineet&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" width="49%" />
+
+</div>
 
 ---
 
-### 💡 Quote of the Day
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🎯 **Featured Projects Showcase**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 **EduPro LMS**
+*Next-Generation Learning Platform*
+
+- 📊 **Real-time Analytics Dashboard**
+- 💳 **Integrated Payment Gateway**  
+- 🎥 **Video Streaming & Progress Tracking**
+- 📱 **Responsive & Progressive Web App**
+
+**Tech Stack:** React, Node.js, MongoDB, Stripe API
+
+</td>
+<td width="50%">
+
+### 🧾 **Dynamic Form Builder**
+*No-Code Form Creation Tool*
+
+- 🎨 **Drag & Drop Interface**
+- 🔗 **Shareable Public Links**
+- 📈 **Analytics & Export Features**
+- ⚡ **Real-time Form Preview**
+
+**Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 **Microservices Job Portal**
+*Enterprise-Grade Architecture*
+
+- 🔄 **Service Discovery & Load Balancing**
+- 🛡️ **Circuit Breaker Pattern**
+- 🐳 **Containerized with Docker & K8s**
+- 📊 **Distributed Monitoring**
+
+**Tech Stack:** Spring Boot, Docker, Kubernetes, Redis
+
+</td>
+<td width="50%">
+
+### 🌟 **Portfolio Website**
+*Personal Brand Experience*
+
+- ✨ **Interactive Animations**
+- 🎨 **Modern UI/UX Design**
+- 📱 **Mobile-First Approach**
+- 🚀 **Optimized Performance**
+
+**Tech Stack:** React, Framer Motion, Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=myself-bineet&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Daily Inspiration**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+
+</div>
 
 ---
 
 <details>
-<summary>🧰 <b>My Toolbox</b></summary>
+<summary>🧰 <b>Complete Technical Arsenal</b></summary>
+<br>
 
-```bash
-💻 Languages: Java, JavaScript, TypeScript, Python, SQL
-🌐 Frontend: React, Next.js, HTML, CSS
-🛠️ Backend: Node.js, Express, Spring Boot
-🗃️ Database: MongoDB, PostgreSQL, MySQL
-☁️ DevOps: AWS, Docker, CI/CD, Jenkins
-🔧 Tools: Git, GitHub, Postman, VS Code
-🎨 UI/UX: Figma, Photoshop
+```yaml
+🎯 Programming Languages:
+  Primary: [Java ☕, JavaScript 🟨, TypeScript 🔷]
+  Secondary: [Python 🐍, SQL 🗃️, Bash 💻]
+
+🎨 Frontend Technologies:
+  Frameworks: [React ⚛️, Next.js ▲, Vue.js 💚]
+  Styling: [Tailwind CSS 🎨, SASS 💅, CSS3 🎭]
+  UI Libraries: [Material-UI 📱, Ant Design 🐜, Chakra UI ⚡]
+
+⚙️ Backend Technologies:
+  Runtime: [Node.js 🟢, Express.js 🚀]
+  Frameworks: [Spring Boot 🍃, Spring Security 🔒]
+  API: [REST 🌐, GraphQL 📊, WebSocket 🔌]
+
+🗄️ Database Management:
+  NoSQL: [MongoDB 🍃, Redis ⚡]
+  SQL: [PostgreSQL 🐘, MySQL 🐬, SQLite 📱]
+
+☁️ Cloud & DevOps:
+  Cloud: [AWS ☁️, Vercel 🔺, Heroku 💜]
+  Containers: [Docker 🐳, Kubernetes ⚓]
+  CI/CD: [Jenkins 🔧, GitHub Actions 🤖]
+
+🔧 Development Tools:
+  IDEs: [VS Code 💙, IntelliJ IDEA 🧠]
+  Version Control: [Git 🌿, GitHub 🐙]
+  API Testing: [Postman 📮, Insomnia 😴]
+  Design: [Figma 🎨, Adobe Photoshop 🖼️]
+```
+
+</details>
+
+---
+
+<div align="center">
+
+## 📈 **Coding Activity & Contributions**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myself-bineet&custom_title=Bineet's%20Contribution%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=5BCDEC&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎭 **"Code is like humor. When you have to explain it, it's bad."** *- Cory House*
+
+*Thank you for visiting my digital space! Let's build something amazing together* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
