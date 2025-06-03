@@ -235,7 +235,7 @@ const bineet = {
 <div align="center">
 
 ### 🎯 GitHub Excellence Awards
-<img src="https://github-profile-trophy.vercel.app/?username=myself-bineet&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
+
 
 ### 🚀 Professional Milestones
 
