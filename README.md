@@ -81,7 +81,7 @@ const bineet = {
       <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=📈%20Bineet's%20Code%20Journey&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0d1117" width="100%" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=highcontrast&hide_border=true&stroke=5E60CE&ring=FF6B6B&fire=FFD93D&currStreakLabel=5E60CE&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&border=30363D" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=radical&hide_border=true&stroke=5E60CE&ring=FF6B6B&fire=FFD93D&currStreakLabel=5E60CE" width="100%" />
     </td>
   </tr>
 </table>
@@ -130,77 +130,168 @@ const bineet = {
 
 </div>
 
-## <img src="https://skillicons.dev/icons?i=project&theme=dark" width="24"/> Featured Projects
+## <img src="https://skillicons.dev/icons?i=rocket&theme=dark" width="24"/> 🌟 Featured Projects Portfolio
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="47%" valign="top">
-        <div align="center">
-          <img src="https://img.icons8.com/color/48/000000/brain.png" width="36"/>
-          <h3>EduPro LMS</h3>
-          <em>Next-Gen Learning Platform</em>
-        </div>
-        <ul>
-          <li>📊 Real-time Analytics Dashboard</li>
-          <li>💳 Integrated Payment Gateway</li>
-          <li>🎥 Video Streaming & Progress Tracking</li>
-          <li>📱 Responsive & PWA</li>
-        </ul>
-        <strong>Stack:</strong> React, Node.js, MongoDB, Stripe API
-      </td>
-      <td width="47%" valign="top">
-        <div align="center">
-          <img src="https://img.icons8.com/color/48/000000/form.png" width="36"/>
-          <h3>Dynamic Form Builder</h3>
-          <em>No-Code Form Creation Tool</em>
-        </div>
-        <ul>
-          <li>🎨 Drag & Drop Interface</li>
-          <li>🔗 Shareable Public Links</li>
-          <li>📈 Analytics & Export</li>
-          <li>⚡ Real-time Preview</li>
-        </ul>
-        <strong>Stack:</strong> Next.js, TypeScript, Prisma, PostgreSQL
-      </td>
-    </tr>
-    <tr>
-      <td width="47%" valign="top">
-        <div align="center">
-          <img src="https://img.icons8.com/color/48/000000/job.png" width="36"/>
-          <h3>Microservices Job Portal</h3>
-          <em>Enterprise-Grade Architecture</em>
-        </div>
-        <ul>
-          <li>🔄 Service Discovery & Load Balancing</li>
-          <li>🛡️ Circuit Breaker Pattern</li>
-          <li>🐳 Docker & K8s</li>
-          <li>📊 Distributed Monitoring</li>
-        </ul>
-        <strong>Stack:</strong> Spring Boot, Docker, Kubernetes, Redis
-      </td>
-      <td width="47%" valign="top">
-        <div align="center">
-          <img src="https://img.icons8.com/color/48/000000/web.png" width="36"/>
-          <h3>Portfolio Website</h3>
-          <em>Personal Brand Experience</em>
-        </div>
-        <ul>
-          <li>✨ Interactive Animations</li>
-          <li>🎨 Modern UI/UX</li>
-          <li>📱 Mobile-First</li>
-          <li>🚀 Optimized Performance</li>
-        </ul>
-        <strong>Stack:</strong> React, Framer Motion, Tailwind CSS
-      </td>
-    </tr>
-  </table>
+
+### 💎 Flagship Developments
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🚀_FEATURED-EduPro_LMS-FF6B6B?style=for-the-badge&logo=react&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="64"/>
+      <h3>🎓 EduPro LMS</h3>
+      <p><strong>Next-Generation Learning Ecosystem</strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/📊-Real_time_Analytics-4CAF50?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/💳-Payment_Gateway-2196F3?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🎥-Video_Streaming-FF5722?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/📱-PWA_Ready-9C27B0?style=flat-square&logo=pwa&logoColor=white"/>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" height="25"/>
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" height="25"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/⚡_INNOVATIVE-Form_Builder-FFD93D?style=for-the-badge&logo=typescript&logoColor=black" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/96/000000/form.png" width="64"/>
+      <h3>🎨 Dynamic Form Builder</h3>
+      <p><strong>No-Code Form Creation Platform</strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/🎨-Drag_&_Drop-E91E63?style=flat-square&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🔗-Public_Links-00BCD4?style=flat-square&logo=link&logoColor=white"/>
+        <img src="https://img.shields.io/badge/📈-Analytics-FF9800?style=flat-square&logo=chartdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/⚡-Live_Preview-8BC34A?style=flat-square&logo=lightning&logoColor=white"/>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=nextjs,typescript,prisma,postgresql&theme=dark" height="25"/>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🏗️_ENTERPRISE-Microservices_Portal-5E60CE?style=for-the-badge&logo=kubernetes&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/96/000000/job.png" width="64"/>
+      <h3>💼 Microservices Job Portal</h3>
+      <p><strong>Cloud-Native Enterprise Solution</strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/🔄-Load_Balancing-03DAC6?style=flat-square&logo=nginx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🛡️-Circuit_Breaker-F72585?style=flat-square&logo=shield&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🐳-Containerized-0DB7ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/📊-Monitoring-7209B7?style=flat-square&logo=prometheus&logoColor=white"/>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,redis&theme=dark" height="25"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/✨_CREATIVE-Portfolio_Website-FF6B9D?style=for-the-badge&logo=react&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="64"/>
+      <h3>🌐 Interactive Portfolio</h3>
+      <p><strong>Personal Brand Experience Hub</strong></p>
+      <div align="left">
+        <img src="https://img.shields.io/badge/✨-Animations-FF6B35?style=flat-square&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🎨-Modern_UI-6C5CE7?style=flat-square&logo=dribbble&logoColor=white"/>
+        <img src="https://img.shields.io/badge/📱-Mobile_First-00D2FF?style=flat-square&logo=mobile&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🚀-Optimized-74B816?style=flat-square&logo=lighthouse&logoColor=white"/>
+      </div>
+      <br>
+      <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" height="25"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" height="25"/>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Project Impact Metrics
+<div align="center">
+  <img src="https://img.shields.io/badge/Active_Projects-4-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Technologies_Used-15+-4CAF50?style=for-the-badge&logo=stackshare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Architecture_Patterns-3-2196F3?style=for-the-badge&logo=architecture&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Ready-100%25-9C27B0?style=for-the-badge&logo=cloud&logoColor=white"/>
 </div>
 
-## <img src="https://skillicons.dev/icons?i=trophy&theme=dark" width="24"/> Achievements
+</div>
+
+## <img src="https://skillicons.dev/icons?i=trophy&theme=dark" width="24"/> 🏆 Achievements & Recognition Hub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myself-bineet&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+
+### 🎯 GitHub Excellence Awards
+<img src="https://github-profile-trophy.vercel.app/?username=myself-bineet&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
+
+### 🚀 Professional Milestones
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/🎓-Full_Stack-FF6B6B?style=for-the-badge&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/64/000000/code.png" width="48"/>
+      <h4>Full-Stack Mastery</h4>
+      <p><strong>MERN + Spring Boot</strong></p>
+      <img src="https://img.shields.io/badge/Expertise-Advanced-4CAF50?style=flat-square"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/☁️-Cloud_Native-4285F4?style=for-the-badge&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/64/000000/cloud.png" width="48"/>
+      <h4>Cloud Architecture</h4>
+      <p><strong>AWS + Kubernetes</strong></p>
+      <img src="https://img.shields.io/badge/Level-Intermediate-FF9800?style=flat-square"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/🔧-DevOps-326CE5?style=for-the-badge&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/64/000000/settings.png" width="48"/>
+      <h4>DevOps Pipeline</h4>
+      <p><strong>CI/CD + Monitoring</strong></p>
+      <img src="https://img.shields.io/badge/Progress-Growing-2196F3?style=flat-square"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/🚀-Innovation-9C27B0?style=for-the-badge&logoColor=white" width="100%"/>
+      <br><br>
+      <img src="https://img.icons8.com/fluency/64/000000/rocket.png" width="48"/>
+      <h4>System Design</h4>
+      <p><strong>Scalable Solutions</strong></p>
+      <img src="https://img.shields.io/badge/Focus-Current-E91E63?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+### 📈 Performance Indicators
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯-Problem_Solver-FF6B6B?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⚡-Fast_Learner-FFD93D?style=for-the-badge&logo=lightning&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🤝-Team_Player-4CAF50?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💡-Innovative_Thinker-9C27B0?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+</div>
+
+### 🎖️ Technical Certifications Track
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🏗️-System_Design-FF6B35?style=for-the-badge"/>
+      <br>
+      <img src="https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/☁️-AWS_Solutions-FF9900?style=for-the-badge"/>
+      <br>
+      <img src="https://img.shields.io/badge/Target-2025-4CAF50?style=flat-square"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🔧-Kubernetes_Admin-326CE5?style=for-the-badge"/>
+      <br>
+      <img src="https://img.shields.io/badge/Priority-High-FF5722?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=quote&theme=dark" width="24"/> Daily Inspiration
