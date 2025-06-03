@@ -30,7 +30,6 @@ const bineet = {
 <p align="center">
   <em>"Turning ideas into reality, one commit at a time."</em>
 </p>
-
       </td>
       <td width="40%" align="center">
         <a href="https://github.com/rudrabarad/Gifs">
