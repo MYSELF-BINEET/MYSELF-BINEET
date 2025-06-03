@@ -12,6 +12,11 @@
 
 ## <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        
 ```typescript
 const bineet = {
   currentFocus: "AI-powered Learning Management System 🎓",
@@ -25,6 +30,16 @@ const bineet = {
 <p align="center">
   <em>"Turning ideas into reality, one commit at a time."</em>
 </p>
+
+      </td>
+      <td width="40%" align="center">
+        <a href="https://github.com/rudrabarad/Gifs">
+          <img src="https://raw.githubusercontent.com/rudrabarad/Gifs/main/Developer.gif" width="300" alt="Developer Animation"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Digital%20Wanderers&color=blueviolet&style=flat-square" alt="profile views"/>
