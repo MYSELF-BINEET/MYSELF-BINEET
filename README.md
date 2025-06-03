@@ -234,9 +234,6 @@ const bineet = {
 
 <div align="center">
 
-### 🎯 GitHub Excellence Awards
-
-
 ### 🚀 Professional Milestones
 
 <table width="100%">
