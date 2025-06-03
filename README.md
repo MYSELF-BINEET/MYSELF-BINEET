@@ -2,7 +2,6 @@
 <span style="color:#5E60CE;">Bineet Pradhan</span>
 
 Full-Stack Architect | Cloud & DevOps Explorer | Digital Craftsman
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&height=50&lines=🚀+Crafting+Futuristic+Web+Experiences;🎯+Full-Stack+Innovation;💡+Learning+Relentlessly;🌐+Building+Scalable+Systems" alt="Dynamic Typing"/>
 <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
 typescript
 const bineet = {
