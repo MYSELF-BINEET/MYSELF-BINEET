@@ -70,14 +70,64 @@ const bineet = {
   </tr>
 </table>
 
-## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/> GitHub Stats
+## <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/> GitHub Analytics & Performance
 
-<div align="center" style="background: rgba(30,34,90,0.25); border-radius: 16px; padding: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Bineet's%20Code%20Journey" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=radical&hide_border=true&stroke=5E60CE&ring=FF6B6B&fire=FFD93D&currStreakLabel=5E60CE" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=donut&langs_count=8&theme=radical&hide_border=true&custom_title=Code%20Distribution" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myself-bineet&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" width="48%" />
+<div align="center">
+  
+### 📊 Code Statistics
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=myself-bineet&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=📈%20Bineet's%20Code%20Journey&title_color=FF6B6B&icon_color=FFD93D&text_color=FFFFFF&bg_color=0d1117" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=myself-bineet&theme=highcontrast&hide_border=true&stroke=5E60CE&ring=FF6B6B&fire=FFD93D&currStreakLabel=5E60CE&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&border=30363D" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🎯 Language Mastery & Activity Pulse
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🌐 Code Distribution</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=compact&langs_count=12&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0d1117&border_color=30363D&card_width=445" width="100%" />
+    </td>
+    <td width="50%">
+      <h4 align="center">⚡ Contribution Heatmap</h4>
+      <img src="https://ghchart.rshah.org/5E60CE/myself-bineet" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🔥 365-Day Contribution Timeline
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myself-bineet&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFD93D&area_color=5E60CE&title_color=FF6B6B&color=FFFFFF&bg_color=0D1117&custom_title=🚀%20Annual%20Coding%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" width="100%" />
+</div>
+
+### 🏆 Detailed Performance Metrics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
+</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myself-bineet&theme=radical&utc_offset=5.5&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=project&theme=dark" width="24"/> Featured Projects
