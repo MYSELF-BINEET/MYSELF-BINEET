@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#5e60ce">Bineet Pradhan</span></h1>
-<h3 align="center">🚀 Full-Stack Web Developer | Java • React • Node.js | DevOps Learner</h3>
+<h3 align="center">🚀 Full-Stack Web Developer | Java • React • Node.js | DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Profile%20views&color=5e60ce&style=flat-square" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;Always+learning+new+tech!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-Stack+Developer+from+India;DevOps+%26+Cloud+Learner!+☁️" alt="Typing SVG" />
 </p>
-
-<img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
 ### 🔥 About Me:
 - 🔭 Working on: **Learning Management System (LMS)**  
-- 🌱 Currently learning: **DevOps**  
-- 💬 Ask me about: **Java, React, Node.js, SQL**  
-- 📬 Contact me at: **bineetpradhan03@gmail.com**
+- 🌱 Currently learning: **AWS, Jenkins, and CI/CD Pipelines**  
+- 💬 Ask me about: **Java, Spring Boot, React, Node.js, SQL**  
+- 📬 Contact: **bineetpradhan03@gmail.com**
 
 ---
 
@@ -34,7 +32,7 @@
 ### 🧠 Skills & Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,mongodb,mysql,postgresql,html,css,git,docker,figma,ps,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,aws,docker,jenkins,git,vscode,figma,ps" />
 </p>
 
 ---
@@ -48,14 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=compact&theme=react&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🐍 GitHub Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MYSELF-BINEET/MYSELF-BINEET/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -92,5 +82,6 @@
 🌐 Frontend: React, Next.js, HTML, CSS
 🛠️ Backend: Node.js, Express, Spring Boot
 🗃️ Database: MongoDB, PostgreSQL, MySQL
-⚙️ DevOps: Docker, CI/CD, Postman
-🎨 UI Tools: Figma, Illustrator, Photoshop
+☁️ Cloud & DevOps: AWS, Docker, CI/CD, Jenkins
+🔧 Tools: Git, GitHub, Postman, VS Code
+🎨 UI/UX: Figma, Photoshop
