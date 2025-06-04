@@ -3,41 +3,9 @@
 </div>
 
 <div align="center">
-  <style>
-    @keyframes slideInFromLeft {
-      0% {
-        transform: translateX(-100%);
-        opacity: 0;
-      }
-      100% {
-        transform: translateX(0);
-        opacity: 1;
-      }
-    }  
-    @keyframes slideInFromRight {
-      0% {
-        transform: translateX(100%);
-        opacity: 0;
-      }
-      100% {
-        transform: translateX(0);
-        opacity: 1;
-      }
-    }    
-    .slide-left {
-      animation: slideInFromLeft 2s ease-out;
-    }    
-    .slide-right {
-      animation: slideInFromRight 2s ease-out 0.5s both;
-    }
-  </style>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5E60CE&height=120&section=header&text=👋%20Hi,%20I'm%20Bineet%20Pradhan&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
   
-  <h1 class="slide-left">
-    <span style="color:#5E60CE;">👋 Hi, I'm Bineet Pradhan</span>
-  </h1>
-  <p class="slide-right">
-    <strong>Full-Stack Architect | Cloud & DevOps Explorer | Digital Craftsman</strong>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&lines=Full-Stack+Architect+%7C+Cloud+%26+DevOps+Explorer+%7C+Digital+Craftsman" alt="Typing SVG" />
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
