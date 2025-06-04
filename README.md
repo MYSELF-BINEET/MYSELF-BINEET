@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20Bineet's%20Digital%20Realm!&fontSize=32&fontAlignY=30&desc=Where%20Code%20Meets%20Creativity%20and%20Innovation&descAlignY=60&descAlign=50"/>
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5E60CE&height=120&section=header&text=👋%20Hi,%20I'm%20Bineet%20Pradhan&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&lines=Full-Stack+Architect+%7C+Cloud+%26+DevOps+Explorer+%7C+Digital+Craftsman" alt="Typing SVG" />
 </div>
 
