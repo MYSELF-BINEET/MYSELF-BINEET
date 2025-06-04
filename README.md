@@ -13,11 +13,11 @@
         
 ```typescript
 const bineet = {
-  currentFocus: "AI-powered Learning Management System 🎓",
+  currentFocus: "AWS & MICROSERVICE STRUCTURE 🎓",
   learning: ["DevOps", "Cloud Architecture", "System Design"],
-  expertise: ["Java ☕", "React ⚛️", "Node.js 🟢", "Database Design 🗄️"],
+  expertise: ["Java ☕", "Backend Architecture", "Node.js 🟢", "Database Design 🗄️"],
   challenge: "Building scalable systems that make a difference",
-  funFact: "I debug with console.log and I'm proud of it! 😄"
+  funFact: "I am a Physco and going to visit doctor 😄"
 };
 ```
 
