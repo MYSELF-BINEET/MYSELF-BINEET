@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20Bineet's%20Digital%20Realm!&fontSize=32&fontAlignY=30&desc=Where%20Code%20Meets%20Creativity%20and%20Innovation&descAlignY=60&descAlign=50"/>
 </div>
 
-<h1 align="center">
-  <span style="color:#5E60CE;">👋 Hi, I'm Bineet Pradhan</span>
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Bineet+Pradhan;Full-Stack+Architect;Cloud+%26+DevOps+Explorer;Digital+Craftsman" alt="Typing SVG" />
+  </h1>
+</div>
 
 <p align="center">
   <strong>Full-Stack Architect | Cloud & DevOps Explorer | Digital Craftsman</strong>
