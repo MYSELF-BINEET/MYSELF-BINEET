@@ -3,14 +3,44 @@
 </div>
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Bineet+Pradhan;Full-Stack+Architect;Cloud+%26+DevOps+Explorer;Digital+Craftsman" alt="Typing SVG" />
+  <style>
+    @keyframes slideInFromLeft {
+      0% {
+        transform: translateX(-100%);
+        opacity: 0;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }  
+    @keyframes slideInFromRight {
+      0% {
+        transform: translateX(100%);
+        opacity: 0;
+      }
+      100% {
+        transform: translateX(0);
+        opacity: 1;
+      }
+    }
+    
+    .slide-left {
+      animation: slideInFromLeft 2s ease-out;
+    }
+    
+    .slide-right {
+      animation: slideInFromRight 2s ease-out 0.5s both;
+    }
+  </style>
+  
+  <h1 class="slide-left">
+    <span style="color:#5E60CE;">👋 Hi, I'm Bineet Pradhan</span>
   </h1>
+  <p class="slide-right">
+    <strong>Full-Stack Architect | Cloud & DevOps Explorer | Digital Craftsman</strong>
+  </p>
 </div>
-
-<p align="center">
-  <strong>Full-Stack Architect | Cloud & DevOps Explorer | Digital Craftsman</strong>
-</p>
 
 ## <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
 
