@@ -1,7 +1,7 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5E60CE&height=120&section=header&text=👋%20Hi,%20I'm%20Bineet%20Pradhan&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&lines=Full-Stack+Architect+%7C+Cloud+%26+DevOps+Explorer+%7C+Digital+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Cloud+%26+DevOps+Explorer;Digital+Craftsman" alt="Typing SVG" />
 </div>
 
 ## <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
