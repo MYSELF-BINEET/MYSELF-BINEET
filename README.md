@@ -23,12 +23,10 @@
         transform: translateX(0);
         opacity: 1;
       }
-    }
-    
+    }    
     .slide-left {
       animation: slideInFromLeft 2s ease-out;
-    }
-    
+    }    
     .slide-right {
       animation: slideInFromRight 2s ease-out 0.5s both;
     }
