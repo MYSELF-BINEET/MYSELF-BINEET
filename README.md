@@ -141,7 +141,7 @@ const bineet = {
 
 <div align="center">
 
-### 💎 Flagship Developments
+### 💎 Flagship Development
 
 <table width="100%">
   <tr>
