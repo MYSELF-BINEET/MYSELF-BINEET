@@ -15,7 +15,7 @@
 const bineet = {
   currentFocus: "AWS & MICROSERVICE STRUCTURE 🎓",
   learning: ["DevOps", "Cloud Architecture", "System Design"],
-  expertise: ["Java ☕", "Backend Architecture", "Node.js 🟢", "Database Design 🗄️"],
+  expertise: ["Java ☕", "Backend Architecture", "Node.js 🟢", "Database Design 🗄️" , "System Design"],
   challenge: "Building scalable systems that make a difference",
   funFact: "I am a Physco and going to visit doctor 😄"
 };
