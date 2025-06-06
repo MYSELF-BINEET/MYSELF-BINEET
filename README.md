@@ -4,35 +4,38 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=5E60CE&center=true&vCenter=true&width=700&lines=Full-Stack+Architect;Cloud+%26+DevOps+Explorer;Digital+Craftsman" alt="Typing SVG" />
 </div>
 
-## <img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me
+<h2><img src="https://skillicons.dev/icons?i=star&theme=dark" width="24"/> About Me</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        
-```typescript
+        <div style="text-align: left; font-family: monospace; font-size: 14px;">
+<pre>
 const bineet = {
   currentFocus: "AWS & MICROSERVICE STRUCTURE 🎓",
   learning: ["DevOps", "Cloud Architecture", "System Design"],
-  expertise: ["Java ☕", "Backend Architecture", "Node.js 🟢", "Database Design 🗄️" , "System Design"],
+  expertise: [
+    "Java ☕", "Backend Architecture", "Node.js 🟢",
+    "Database Design 🗄️", "System Design"
+  ],
   challenge: "Building scalable systems that make a difference",
   funFact: "I am a Physco and going to visit doctor 😄"
 };
-```
-
-<p align="center">
-  <em>"Turning ideas into reality, one commit at a time."</em>
-</p>
+</pre>
+        </div>
+        <p align="center">
+          <em>"Turning ideas into reality, one commit at a time."</em>
+        </p>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/rudrabarad/Gifs">
-          <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-        </a>
+        <img alt="Coder GIF" height="250" width="350"
+          src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=myself-bineet&label=Digital%20Wanderers&color=blueviolet&style=flat-square" alt="profile views"/>
