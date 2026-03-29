@@ -96,49 +96,8 @@ const bineet = {
   </tr>
 </table>
 
-### 🎯 Language Mastery & Activity Pulse
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🌐 Code Distribution</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-bineet&layout=compact&langs_count=12&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0d1117&border_color=30363D&card_width=445" width="100%" />
-    </td>
-    <td width="50%">
-      <h4 align="center">⚡ Contribution Heatmap</h4>
-      <img src="https://ghchart.rshah.org/5E60CE/myself-bineet" width="100%" />
-    </td>
-  </tr>
-</table>
 
-### 🔥 365-Day Contribution Timeline
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myself-bineet&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFD93D&area_color=5E60CE&title_color=FF6B6B&color=FFFFFF&bg_color=0D1117&custom_title=🚀%20Annual%20Coding%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" width="100%" />
-</div>
-
-### 🏆 Detailed Performance Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
-</div>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=myself-bineet&theme=radical&hide_border=true" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myself-bineet&theme=radical&utc_offset=5.5&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ## <img src="https://skillicons.dev/icons?i=rocket&theme=dark" width="24"/> 🌟 Featured Projects Portfolio
 
@@ -278,28 +237,7 @@ const bineet = {
   <img src="https://img.shields.io/badge/💡-Innovative_Thinker-9C27B0?style=for-the-badge&logo=lightbulb&logoColor=white"/>
 </div>
 
-### 🎖️ Technical Certifications Track
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🏗️-System_Design-FF6B35?style=for-the-badge"/>
-      <br>
-      <img src="https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/☁️-AWS_Solutions-FF9900?style=for-the-badge"/>
-      <br>
-      <img src="https://img.shields.io/badge/Target-2025-4CAF50?style=flat-square"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/🔧-Kubernetes_Admin-326CE5?style=for-the-badge"/>
-      <br>
-      <img src="https://img.shields.io/badge/Priority-High-FF5722?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
-</div>
 
 ## <img src="https://skillicons.dev/icons?i=quote&theme=dark" width="24"/> Daily Inspiration
 
