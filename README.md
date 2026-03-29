@@ -107,48 +107,6 @@ const bineet = {
 
 </div>
 
-## <img src="https://skillicons.dev/icons?i=trophy&theme=dark" width="24"/> 🏆 Achievements & Recognition Hub
-
-<div align="center">
-
-### 🚀 Professional Milestones
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🎓-Full_Stack-FF6B6B?style=for-the-badge&logoColor=white" width="100%"/>
-      <br><br>
-      <img src="https://img.icons8.com/fluency/64/000000/code.png" width="48"/>
-      <h4>Full-Stack Mastery</h4>
-      <p><strong>MERN + Spring Boot</strong></p>
-      <img src="https://img.shields.io/badge/Expertise-Advanced-4CAF50?style=flat-square"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/☁️-Cloud_Native-4285F4?style=for-the-badge&logoColor=white" width="100%"/>
-      <br><br>
-      <img src="https://img.icons8.com/fluency/64/000000/cloud.png" width="48"/>
-      <h4>Cloud Architecture</h4>
-      <p><strong>AWS + Kubernetes</strong></p>
-      <img src="https://img.shields.io/badge/Level-Intermediate-FF9800?style=flat-square"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🔧-DevOps-326CE5?style=for-the-badge&logoColor=white" width="100%"/>
-      <br><br>
-      <img src="https://img.icons8.com/fluency/64/000000/settings.png" width="48"/>
-      <h4>DevOps Pipeline</h4>
-      <p><strong>CI/CD + Monitoring</strong></p>
-      <img src="https://img.shields.io/badge/Progress-Growing-2196F3?style=flat-square"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/🚀-Innovation-9C27B0?style=for-the-badge&logoColor=white" width="100%"/>
-      <br><br>
-      <img src="https://img.icons8.com/fluency/64/000000/rocket.png" width="48"/>
-      <h4>System Design</h4>
-      <p><strong>Scalable Solutions</strong></p>
-      <img src="https://img.shields.io/badge/Focus-Current-E91E63?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 ### 📈 Performance Indicators
 
